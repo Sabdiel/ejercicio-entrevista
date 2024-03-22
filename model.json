@@ -1,0 +1,29 @@
+{
+    "id": "9e3f7ce4-b9a7-4244-b709-dae5c1f1d4a8",
+    "name": "string",
+    "alternate_names": [
+      "string",
+      "string"
+    ],
+    "species": "string",
+    "gender": "string",
+    "house": "string",
+    "dateOfBirth": "string/date",
+    "yearOfBirth": 1980,
+    "wizard": true,
+    "ancestry": "string",
+    "eyeColour": "string",
+    "hairColour": "string",
+    "wand": {
+      "wood": "string",
+      "core": "string",
+      "length": 11
+    },
+    "patronus": "string",
+    "hogwartsStudent": true,
+    "hogwartsStaff": false,
+    "actor": "string",
+    "alternate_actors": [],
+    "alive": true,
+    "image": "string"
+  }
